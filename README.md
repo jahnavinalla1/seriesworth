@@ -1,6 +1,6 @@
-# TV ultimates: when lifetime sales expectations change
+# SeriesWorth | TV Lifetime Profitability
 
-**Independent Sony Pictures FP&A case study · Excel + Python**
+**Independent entertainment FP&A case study · Excel + Python**
 
 An editable lifetime title model that connects a revised sales outlook to **current contribution, prospective cost amortization, and a recoverability warning**.
 
