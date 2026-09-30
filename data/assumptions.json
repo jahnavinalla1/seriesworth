@@ -1,0 +1,20 @@
+{
+  "title": "Signal House (fictional)",
+  "as_of": "2026-06-30",
+  "opening_unamortized_cost": 42,
+  "current_additions": 3,
+  "historical_revenue": 30,
+  "historical_production_cost": 60,
+  "historical_other_cost": 6,
+  "current_revenue": 18,
+  "current_exploitation_cost": 2,
+  "future_exploitation_cost": 5,
+  "participation_rate": 0.08,
+  "windows": [
+    {"window": "Domestic renewal", "prior_future_revenue": 22, "revised_future_revenue": 18},
+    {"window": "International", "prior_future_revenue": 16, "revised_future_revenue": 12},
+    {"window": "Catalog / AVOD", "prior_future_revenue": 14, "revised_future_revenue": 8}
+  ],
+  "downside_future_revenue_haircut": 0.25,
+  "stress_future_revenue_haircut": 0.55
+}

@@ -1,0 +1,12 @@
+test_break_even_threshold (test_model.UltimateTests.test_break_even_threshold) ... ok
+test_every_sensitivity_rolls_forward (test_model.UltimateTests.test_every_sensitivity_rolls_forward) ... ok
+test_historical_actuals_not_rewritten (test_model.UltimateTests.test_historical_actuals_not_rewritten) ... ok
+test_invalid_and_duplicate (test_model.UltimateTests.test_invalid_and_duplicate) ... ok
+test_no_future_revenue_amortizes_remaining_cost (test_model.UltimateTests.test_no_future_revenue_amortizes_remaining_cost) ... ok
+test_revision_changes_amortization (test_model.UltimateTests.test_revision_changes_amortization) ... ok
+test_zero_revenue_writes_off_asset (test_model.UltimateTests.test_zero_revenue_writes_off_asset) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK

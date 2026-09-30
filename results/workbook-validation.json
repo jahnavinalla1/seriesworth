@@ -1,0 +1,11 @@
+{
+  "engine": "Artifact spreadsheet engine; native Excel not tested",
+  "checks": [
+    "Prior, revised, downside and stress reconcile to Python",
+    "Future-window input changes recovery result; historical inputs preserved",
+    "Missing window input surfaces REVIEW INPUTS; restored",
+    "Roll-forward and restored revised baseline verified"
+  ],
+  "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "restored_baseline": true
+}
